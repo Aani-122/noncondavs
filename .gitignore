@@ -1,1 +1,4 @@
 myvenv
+build
+project.egg-info
+dist
